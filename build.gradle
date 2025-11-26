@@ -6,9 +6,10 @@ buildscript {
     repositories {
         mavenCentral()
         maven { url 'https://maven.fabricmc.net/' }
+        maven { url 'https://maven.minecraftforge.net/' }
     }
     dependencies {
-        classpath 'net.fabricmc:fabric-loom:1.6.12'
+        classpath 'net.fabricmc:fabric-loom:1.2.11'
     }
 }
 
