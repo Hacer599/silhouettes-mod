@@ -1,0 +1,5 @@
+{
+  "silhouettes:spawn": {
+    "sounds": ["silhouettes:sounds/spawn.ogg"]
+  }
+}

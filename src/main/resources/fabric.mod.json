@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "silhouettes",
+  "version": "1.0.0",
+  "name": "Silhouettes",
+  "description": "Distant black silhouettes with red eyes (client-only)",
+  "authors": ["You"],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.example.silhouettes.client.SilhouetteClient::onInitializeClient"]
+  }
+}
